@@ -1,2 +1,2 @@
-# gitcode
-git codes
+# pycodes
+colloquium 1 files
