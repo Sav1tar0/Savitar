@@ -8,4 +8,5 @@ def flatten_arr(arr):
             flattened_arr.append(item)
     return flattened_arr
 
-print(flatten_arr([13, [200, 3], [4, [5, [5,[1.3]]],]]))  
+
+
