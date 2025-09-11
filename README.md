@@ -1,3 +1,0 @@
-# pycodes
-naa files
-
