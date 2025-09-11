@@ -16,4 +16,5 @@ def second_most_frequent(arr):
     for num, count in frequency.items():
         if count == second_max_freq:
             return num  
-print(second_most_frequent([1, 2, 2, 3, 3, 3, 4, 4, 4, 5])) 
+
+
